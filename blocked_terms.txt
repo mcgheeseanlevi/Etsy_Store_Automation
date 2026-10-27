@@ -1,0 +1,40 @@
+# Words and phrases that could get a listing taken down for trademark or
+# copyright reasons. If a listing's title, tags, or description contains one
+# of these, that listing is SKIPPED (never uploaded) and you'll see why.
+#
+# - One term per line. Capital letters and accents don't matter
+#   ("pokemon" also catches "Pokémon"), and whole words only
+#   ("Nike" won't trigger on "Nikesha").
+# - Spaces and hyphens are flexible: "Harry Potter" also catches
+#   "harry-potter" and "HarryPotter".
+# - Lines starting with # are notes and are ignored.
+# - Add your own terms any time. Only remove one if you're sure it's safe.
+# This list is a starting point, not legal advice.
+
+# Brands and franchises
+Disney
+Pixar
+Marvel
+Star Wars
+Pokemon
+Nintendo
+Harry Potter
+Hogwarts
+Hello Kitty
+Barbie
+Nike
+Adidas
+Starbucks
+Coca-Cola
+Stanley
+NFL
+NBA
+
+# Celebrities
+Taylor Swift
+Swiftie
+
+# Phrases that signal copying someone else's work or product
+in the style of
+inspired by
+dupe

@@ -1,0 +1,19 @@
+# Your secret Printify token: never commit this
+.env
+
+# Your own working files: images, results and the log
+incoming/*
+!incoming/.gitkeep
+done/*
+!done/.gitkeep
+log.csv
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Computer clutter
+.DS_Store
+Thumbs.db

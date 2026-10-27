@@ -1,0 +1,12 @@
+{
+  "_notes": "Filled in by 'python main.py setup'. You can safely edit default_price (US dollars, used when a price cell is empty) and description_format ('html' or 'plain'). Leave the rest to setup. See README.md.",
+  "default_price": 16.99,
+  "description_format": "html",
+  "shop_id": null,
+  "shop_title": null,
+  "blueprint_id": null,
+  "blueprint_title": null,
+  "print_provider_id": null,
+  "print_provider_title": null,
+  "variants": []
+}
